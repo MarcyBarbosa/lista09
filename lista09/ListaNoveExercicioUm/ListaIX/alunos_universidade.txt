@@ -1,0 +1,6 @@
+Dados dos alunos: 
+Aluno: Dalia	Nota Final: 90.0
+Aluno: Joana	Nota Final: 85.0
+Aluno: Luisa	Nota Final: 83.0
+Aluno: Kleber	Nota Final: 97.0
+Aluno: Vitoria	Nota Final: 67.0

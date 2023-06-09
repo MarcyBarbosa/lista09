@@ -1,0 +1,8 @@
+	#### Dados pessoais ####
+Nome: Felipe
+Idade: 18
+CPF: 124.423.346-31
+	#### Dados da viagem ####
+Destino: São Paulo
+Valor: R$250,00
+Número da poltrona: 13
